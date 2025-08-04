@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "92275872083",
+    "project_id": "ninja-brew-crew-bb84a",
+    "storage_bucket": "ninja-brew-crew-bb84a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92275872083:android:2a625120994b0f2cac51a6",
+        "android_client_info": {
+          "package_name": "com.example.brew_crew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPlwVwJRzC58xoqOGRG_llVE7_nQihwpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
